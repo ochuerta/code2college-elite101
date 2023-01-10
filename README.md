@@ -9,8 +9,8 @@ The rep-work is a python chatbot.
 ## This section is added to the new branch
 This branch will be pushed to the repository as a new branch.<br/>
 
-## This is an additional section
-Spelling out my continued plans.
-
 ## Additional section
 Testing section adds and **removals** in case I make ~~mistakes~~.
+
+## Add real-time edit during class
+Hopefully, **everyone** is able to follow along
