@@ -11,3 +11,6 @@ This branch will be pushed to the repository as a new branch.<br/>
 
 ## This is an additional section
 Spelling out my continued plans.
+
+## Additional section
+Testing section adds and **removals** in case I make ~~mistakes~~.
