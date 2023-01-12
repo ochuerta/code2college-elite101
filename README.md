@@ -7,4 +7,4 @@ This repository contains my pre-work project for the Elite 101 Course at Code2Co
 The rep-work is a python chatbot.
 
 ## Test Plan
-Here is my plan for testing
+Here is my plan for testing, which includes additional testing
